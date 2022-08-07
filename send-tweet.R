@@ -4,13 +4,6 @@ gc()
 # To Do
 # catch duplicate names and use most recent or fighter with most bouts (print warning in tweet?)
 
-# Resources
-#https://github.com/matt-dray/londonmapbot
-#https://blog--simonpcouch.netlify.app/blog/r-github-actions-commit/
-#https://www.tidyverse.org/blog/2022/06/actions-2-0-0/#:~:text=About%20rlib%2Factions,or%20rebuilding%20your%20pkgdown%20website.
-#https://github.com/r-lib/actions
-# https://github.com/mrismailt/why-r-2022-serverless-r-in-the-cloud
-
 library(data.table)
 library(ggplot2)
 library(scales)
